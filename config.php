@@ -4,7 +4,7 @@
 $config = array();
 
 $config['website-name'] = "Online Web Proxy";
-$config['website-url'] = "https://www.agctz.go.tz/ag/coordination/users/complaintdocs/contacts/";
+$config['website-url'] = "127.0.0.1";
 $config['website-description'] = "PHP - Online Web Proxy";
 
 // a unique key that identifies this application - DO NOT LEAVE THIS EMPTY!
